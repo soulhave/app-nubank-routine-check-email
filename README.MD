@@ -1,6 +1,6 @@
-# App Nubank Routine Start Watch Email
+# App Nubank Routine Check Email
 
-App responsible to enable the e-mail to be watched and notify a pubsub queue.
+App responsible to check new nubank emails on the pubsub subscription.
 
 Run Local
 ```shell
